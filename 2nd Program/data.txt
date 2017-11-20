@@ -1,0 +1,10 @@
+First number
+12
+Second number
+34
+Sum is 46
+Enter the first number
+12
+Enter the second number
+34
+Product is 408
