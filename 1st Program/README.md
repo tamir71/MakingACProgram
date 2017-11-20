@@ -2,7 +2,7 @@
 
 Hello World!
 
-```[C]
+```C
 #include <stdio.h>
 
 int main() {
