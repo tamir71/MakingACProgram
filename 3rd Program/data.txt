@@ -1,0 +1,3 @@
+Some text: Hello World!
+
+Integer: 65537, float: 3.141592

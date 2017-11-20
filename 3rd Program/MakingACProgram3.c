@@ -6,7 +6,7 @@
 
 
 void main() {
-    FILE *f = fopen("text1.txt", "w");
+    FILE *f = fopen("data.txt", "w");
     if (f == NULL) {
         printf("Error opening file!\n");
     }

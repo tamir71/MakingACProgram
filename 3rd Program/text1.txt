@@ -1,3 +1,0 @@
-Some text: ll
-
-Integer: 0, float: 0.000000
